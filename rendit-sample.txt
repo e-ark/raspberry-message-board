@@ -1,0 +1,7 @@
+c_red		"赤色"
+c_green		"緑色"
+c_blue		"青色"
+c_yellow	"黄色"
+c_magenta	"紫色"
+c_cyan		"水色"
+c_white		"白色"
